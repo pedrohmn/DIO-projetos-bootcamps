@@ -1,0 +1,47 @@
+.navbar{
+	background-color: #011f2b;
+}
+.nav-link{
+}
+
+.navbar-collapse > .navbar-nav > .nav-item > .nav-link {
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+	padding: 20px;
+}
+
+.quem-somos{
+	color: rgb(59, 59, 59);
+}
+
+.align-middle {
+	vertical-align:bottom;
+	align-items: center;
+}
+
+.margin{
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.floatBox{
+	padding: 20px;
+	background-color: rgb(245, 245, 245);
+	border-style: solid;
+	border-color: gray;
+	border-radius: 10%;
+}
+
+.bg-footer{
+	background-color: black;
+	color: white;
+}
+
+.rounded-circle {
+	border-radius: 10% !important;
+}
+
+.container-fluid{
+	margin-bottom: 70px;
+}
